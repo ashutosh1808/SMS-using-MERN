@@ -29,3 +29,6 @@ To deploy this project run
   npm start
 ```
 
+## Enable the server
+node se.js
+
