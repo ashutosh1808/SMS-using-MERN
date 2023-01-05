@@ -3,3 +3,12 @@
 
 This is a Student Management System web application. It performs CRUD (Create-Read-Update-Delete) operations with the data given by a student.
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm start
+```
+
